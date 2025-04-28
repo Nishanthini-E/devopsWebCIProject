@@ -11,7 +11,7 @@
 	<groupId>com.devopsweb</groupId>
 	<artifactId>devopsDemoCI-WebProject</artifactId>
 	<version>v1.0.0</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>devopsDemoCI-WebProject</name>
 	<description>Demo project for web application</description>
 	<url/>
